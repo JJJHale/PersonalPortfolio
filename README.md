@@ -1,4 +1,4 @@
-# PersonalPortfolio
+# Personal Portfolio
 
 # Projects
 This folder showcases projects I have completed.
