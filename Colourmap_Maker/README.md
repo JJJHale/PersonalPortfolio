@@ -1,5 +1,5 @@
 # Colourmap Maker
-- Requires Matlab image processing toolbox
+- *Requires Matlab image processing toolbox*
 
 ## Details
 A matlab script that takes an RGB image as input and then allows users to select colours from the image.
